@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duygu Ataman"
+  #name             : "Duygu Ataman"
   avatar           : "profile.png"
   #bio              : "Post-doctoral Researcher and Lecturer"
   #location         : "Zürich"
