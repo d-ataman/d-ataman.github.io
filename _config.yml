@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duygu Ataman, Ph.D."
-title_separator          : "-"
+#title                    : "Duygu Ataman, Ph.D."
+#title_separator          : "-"
 name                     : &name "Duygu Ataman"
 description              : &description "personal description"
 url                      : https://d-ataman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Duygu Ataman"
   avatar           : "profile.png"
-  bio              : "Post-doctoral Researcher and Lecturer"
+  #bio              : "Post-doctoral Researcher and Lecturer"
   #location         : "Zürich"
-  employer         : "University of Zürich, Switzerland"
-  pubmed           : "https://www.cl.uzh.ch/de/people/team/compling/ataman.html"
+  #employer         : "University of Zürich, Switzerland"
+  webpage           : "https://www.cl.uzh.ch/de/people/team/compling/ataman.html"
   googlescholar    : "https://scholar.google.com/citations?user=nFEUTOIAAAAJ&hl=it"
   email            : "ataman@cl.uzh.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
