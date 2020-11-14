@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Duygu Ataman"
   avatar           : "profile.png"
-  bio              : "Post-doctoral Researcher"
-  location         : "Zürich"
-  employer         : "University of Zürich"
+  bio              : "Post-doctoral Researcher and Lecturer"
+  #location         : "Zürich"
+  employer         : "University of Zürich, Switzerland"
   pubmed           : "https://www.cl.uzh.ch/de/people/team/compling/ataman.html"
   googlescholar    : "https://scholar.google.com/citations?user=nFEUTOIAAAAJ&hl=it"
   email            : "ataman@cl.uzh.ch"
