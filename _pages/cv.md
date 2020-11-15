@@ -21,7 +21,7 @@ Education
 Work experience
 ---
 * October 2019 - Ongoing: Post-doctoral Researcher
-  * University of Zürich
+  * University of Zürich, Switzerland
 
 * Summer 2019: Applied Scientist Intern
   * Amazon, Berlin, Germany
