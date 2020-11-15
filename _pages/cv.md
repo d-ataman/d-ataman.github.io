@@ -9,51 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+I completed my Ph.D. in 2019 at the University of Trento under the supervision of [Marcello Federico](https://sites.google.com/site/marcellofedericohome/). In my doctoral research, which I conducted with the fellowship from Fondazione Bruno Kessler, I studied unsupervised learning of morphology, including the aspects of linguistics, cognitive science and statistics, and designed a purely statistical formulation of it within the Bayesian framework, which could be implemented in generative models to help produce better sentences in morphologically-rich languages. I also had a research visit at the School of Informatics, University of Edinburgh in order to work with [Dr. Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/) where I contributed to the [SUMMA](http://summa-project.eu/) project. Since I finished my Ph.D. I have started studying syntax in order to design a more linguistically-expressive statistical model of morphosyntax, which I hope will help better generalization in multi-lingual models.
+
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+----
+* B.S. in Electrical and Electronics Engineering, Middle East Technical University, 2013
+* M.S. in Electrical Engineering, with a specialization in Embedded Sytems and Multimedia Applications, KU Leuven, 2015
+* Ph.D in Information and Communication Technology, University of Trento, 2019
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+---
+* October 2019 - Ongoing: Post-doctoral Researcher
+  * University of Zürich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Applied Scientist Intern
+  * Amazon, Berlin, Germany
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014 - 2015: Research Engineer
+  * You Know Watt, Brussels, Belgium
+
+* 2012 - 2013: Project Engineer
+  * DarkBlue Communication Systems, Ankara, Turkey
+
+* Summer 2012: Research Intern
+  * Université catholique de Louvain, Belgium
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Summer 2011: Research Intern
+  * Czech Tecnical University in Prague, Czech Republic
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
