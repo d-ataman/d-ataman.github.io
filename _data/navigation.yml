@@ -6,12 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching and Supervision"
     url: /teaching/    
         
   - title: "CV"
     url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
     
