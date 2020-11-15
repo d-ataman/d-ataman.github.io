@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact"
+  #name             : "Contact"
   avatar           : "https://d-ataman.github.io/images/profile.png"
   #bio              : "Post-doctoral Researcher and Lecturer"
   #location         : "Zürich"
-  #employer         : "University of Zürich, Switzerland"
+  employer         : "Institute of Computational Linguistics, Andreasstrasse 15, 8051, Zürich, Switzerland"
   #webpage           : "https://www.cl.uzh.ch/de/people/team/compling/ataman.html"
   googlescholar    : "https://scholar.google.com/citations?user=nFEUTOIAAAAJ&hl=it"
   email            : "ataman@cl.uzh.ch"
