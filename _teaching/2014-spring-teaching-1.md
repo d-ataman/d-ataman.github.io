@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Creation and Annotation of Linguistic Resources"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course in Computational Linguistics and Language Technology"
+venue: "University of Zürich"
+date: Spring 2020
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am the lecturer of the new course in the Bachelor's programme in Computational Linguistics and Language Technology on the creation and annotation of linguistic resources. This course aims to present a practical introduction to corpus linguistics, building manual and automatic annotation tools and statistical analysis of corpora with programming exercises.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course will continue in Spring 2021.
