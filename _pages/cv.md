@@ -14,9 +14,9 @@ I completed my Ph.D. in 2019 at the University of Trento under the supervision o
 
 Education
 ----
-* B.S. in Electrical and Electronics Engineering, Middle East Technical University, 2013
-* M.S. in Electrical Engineering, with a specialization in Embedded Sytems and Multimedia Applications, KU Leuven, 2015
-* Ph.D in Information and Communication Technology, University of Trento, 2019
+* <strong>B.Sc. in Electrical and Electronics Engineering</strong>, with a specialization in <em>Computer Science</em>, Middle East Technical University, 2013
+* <strong>M.Sc. in Electrical Engineering</strong>, with a specialization in <em>Embedded Sytems and Multimedia Applications</em>, KU Leuven, 2015
+* <strong>Ph.D. in Information and Communication Technology</strong>, University of Trento, 2019
 
 Work experience
 ---
