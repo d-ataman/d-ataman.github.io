@@ -87,7 +87,34 @@ author:
   #employer         : "University of Zürich, Switzerland"
   #webpage           : "https://www.cl.uzh.ch/de/people/team/compling/ataman.html"
   googlescholar    : "https://scholar.google.com/citations?user=nFEUTOIAAAAJ&hl=it"
- 
+  email            : "ataman@cl.uzh.ch"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "d-ataman"
+  google_plus      :
+  keybase          :
+  instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  #orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "@_dataman_"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
