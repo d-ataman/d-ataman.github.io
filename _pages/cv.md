@@ -38,6 +38,20 @@ Work experience
 * Summer 2011: Research Intern
   * Czech Tecnical University in Prague, Czech Republic
 
-  
+Academic Activities
+---
+I serve in the program committee of the following venues:
+* Empirical Methods in Natural Language Processing (EMNLP)
+* International Conference on Learning Representations (ICLR)
+* The European Chapter of the Association of Computational Linguistics (EACL)
+* The North American Chapter of the Association of Computational Linguistics (NAACL)
+* The International Conference on Computational Linguistics (COLING)
+* Conference on Machine Translation (WMT)
+* European Association for Machine Translation (EAMT)
+* International Workshop on Spoken Language Translation (IWSLT)
+* Workshop on Neural Generation and Translation (WNGT)
+* Workshop on Machine Translation of Low-Resource Languages (LoResMT)
+* Machine Translation Summit
 
+I am also the organizer of the 1st workshop in Multilingual Representation Learning (2021) at EMNLP.
 
