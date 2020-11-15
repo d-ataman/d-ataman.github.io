@@ -97,7 +97,7 @@
   }
 
   .small {
-    font-size: $type-size-6;
+    font-size: $type-size-7;
   }
 
   /* blockquote citations */
@@ -336,7 +336,7 @@
 .comment__avatar {
   width: 40px;
   height: 40px;
-  border-radius: 100%;
+  border-radius: 50%;
 
   @include breakpoint($large) {
     width: 80px;
