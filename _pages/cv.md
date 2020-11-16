@@ -16,7 +16,9 @@ Education
 ----
 * <strong>B.Sc. in Electrical and Electronics Engineering</strong>, with a specialization in <em>Computer Science</em>, Middle East Technical University, 2013
 * <strong>M.Sc. in Electrical Engineering</strong>, with a specialization in <em>Embedded Sytems and Multimedia Applications</em>, KU Leuven, 2015
+<strong>Thesis:</strong> Effects of Acoustics and Speaker Characteristics in EEG-based Auditory Attention Detection
 * <strong>Ph.D. in Information and Communication Technology</strong>, University of Trento, 2019
+<strong>Thesis:</strong> Learning Morphology for Open-Vocabulary Neural Machine Translation
 
 Work experience
 ---
@@ -55,3 +57,9 @@ I serve in the program committee of the following venues:
 
 I am also the organizer of the 1st workshop in Multilingual Representation Learning (2021) at EMNLP.
 
+Fellowships and Grants
+---
+*  Erasmus Mobility Grant for research internship at UCLouvain (3 months), 2012 
+*  Doctoral Fellowship, University of Trento (3 years), 2015-2019 
+*  Post-graduate Research Scholarship, University of Edinburgh (5 months), 2018 
+*  Registration and travel grants in ESSLLI 2016, WiML Workshop 2017, ACL 2018, WNGT 2019, ICLR 2020
