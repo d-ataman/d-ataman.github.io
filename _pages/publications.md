@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 
-   <strong>Ataman, D.</strong>, Aziz, W. and Birch, A. (2020) A Latent Morphology Model for Open-Vocabulary Neural Machine Translation. International Conference on Learning Representations (ICLR). <u><a href="https://openreview.net/pdf?id=BJxSI1SKDH">paper</a></u> <u><a href="https://github.com/d-ataman/lmm">code</a></u><br>
+   <strong>Ataman, D.</strong>, Aziz, W. and Birch, A. (2020) A Latent Morphology Model for Open-Vocabulary Neural Machine Translation. International Conference on Learning Representations (ICLR). <a href="https://openreview.net/pdf?id=BJxSI1SKDH">paper</a> <a href="https://github.com/d-ataman/lmm">code</a><br>
    <strong>Ataman, D.</strong>, Firat, O., Di Gangi, M., Federico, M. and Birch, A. (2019) On the Importance of Word Boundaries in Character-level Neural Machine Translation. In Proceedings of the 3rd Workshop on Neural Generation and Translation (WNGT) at the Conference on Empirical Methods in Natural Language Processing (EMNLP). Hong Kong. p. 187-196.<br>
    <strong>Ataman, D.</strong> and Federico, M. (2018) Compositional Representation of Morphologically-Rich Input for Neural Machine Translation. In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL). p. 305–311.<br>
    <strong>Ataman, D.</strong>, Di Gangi, M. and Federico, M. (2018) Compositional Source Word Representations for Neural Machine Translation. Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT). Alacant, Spain, p. 31-40.<br>
