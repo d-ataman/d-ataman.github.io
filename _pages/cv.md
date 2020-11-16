@@ -15,9 +15,9 @@ I completed my Ph.D. in 2019 at the University of Trento under the supervision o
 Education
 ----
 * <strong>B.Sc. in Electrical and Electronics Engineering</strong>, with a specialization in <em>Computer Science</em>, Middle East Technical University, 2013
-* <strong>M.Sc. in Electrical Engineering</strong>, with a specialization in <em>Embedded Sytems and Multimedia Applications</em>, KU Leuven, 2015
+* <strong>M.Sc. in Electrical Engineering</strong>, with a specialization in <em>Embedded Sytems and Multimedia Applications</em>, KU Leuven, 2015<br>
 <strong>Thesis:</strong> Effects of Acoustics and Speaker Characteristics in EEG-based Auditory Attention Detection
-* <strong>Ph.D. in Information and Communication Technology</strong>, University of Trento, 2019
+* <strong>Ph.D. in Information and Communication Technology</strong>, University of Trento, 2019<br>
 <strong>Thesis:</strong> Learning Morphology for Open-Vocabulary Neural Machine Translation
 
 Work experience
