@@ -14,7 +14,7 @@ The main goal of my research is to improve the applicability of language technol
 
 In the context of natural language processing, currently the most promising approach to improve the performance in low-resource languages and tasks are multi-lingual and multi-task learning methods. This is why I joined the [MUTAMUR](https://www.cl.uzh.ch/en/texttechnologies/research/machine-learning/mutamur.html) project of [Prof. Dr. Rico Sennrich](https://www.cl.uzh.ch/de/people/team/compling/sennrich.html) which aims to investigate methods for knowledge sharing and transfer between machine learning models in natural language processing. In order to accelerate research in this field I recently initiated the organization of the first workshop on Multilingual Representation Learning, which will take place in EMNLP 2021. 
 
-I am especially interested in unsupervised learning methods based on <strong>Bayesian latent-variable</strong> and <strong>geometric deep learning models</strong> that can be used to induce linguistic biases into multi-lingual language models and ultimately aid their generalization capability. 
+I am especially interested in <strong>multi-task</strong> and <strong>unsupervised learning</strong> methods based on <strong>Bayesian latent-variable</strong> and <strong>geometric deep learning models</strong> that can be used to induce linguistic biases into multi-lingual language models and ultimately aid their generalization capability. 
 
 
 
