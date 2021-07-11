@@ -19,6 +19,8 @@ Education
 <strong>Thesis:</strong> Effects of Acoustics and Speaker Characteristics in EEG-based Auditory Attention Detection
 * <strong>Ph.D. in Information and Communication Technology</strong>, University of Trento, 2019<br>
 <strong>Thesis:</strong> Learning Morphology for Open-Vocabulary Neural Machine Translation
+* <strong>B.A. in Philosophy</strong>, Istanbul University (Remote Learning Faculty) 2020 - Ongoing
+
 
 Work experience
 ---
