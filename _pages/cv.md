@@ -24,7 +24,7 @@ Education
 
 Work experience
 ---
-* October 2019 - June 2021: Post-doctoral Researcher
+* 2019 - 2021: Post-doctoral Researcher
   * University of Zürich, Switzerland
 
 * Summer 2019: Applied Scientist Intern
